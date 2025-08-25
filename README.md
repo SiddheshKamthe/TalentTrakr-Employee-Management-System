@@ -151,14 +151,6 @@ npm start
 
 ---
 
-## Testing (Optional)
-
-- **Backend:** JUnit 5 + Spring Boot Test
-- **API:** Postman collection for CRUD flows
-- **Frontend:** React Testing Library
-
----
-
 ## Roadmap
 
 - Add request/response DTOs and validation
